@@ -14,3 +14,8 @@ First, clone the Github repository using the following command in terminal:
 ```bash
 git clone https://github.com/padmanabhpvdev/scrapopy.git
 ```
+Then locate the folder to enter on the **ScrapOpy** folder using the following command:
+```bash
+cd scrapopy
+```
+Check the Python dependencies if the tools were installed [Optional]
