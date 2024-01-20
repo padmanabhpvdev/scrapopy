@@ -5,3 +5,4 @@ This tool can be used to collect specific datas such as IP Address, Geo Location
 
 ## Getting Started
 This steps provides the installation of the tools to your machine, the screenshot of the app is provided below :
+# <img src="/images/scrnsht1.png">
