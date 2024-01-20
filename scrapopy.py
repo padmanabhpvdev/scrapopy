@@ -39,7 +39,7 @@ logo=f"""
                    Version {version} 
                     
         Scrape Contents from a Webpage by Padmanabh PV 
-            https://github.com/padmanabhpvdev/scrapopy
+          https://github.com/padmanabhpvdev/scrapopy
     """
 commands = """
             [OPTIONS]
