@@ -1,7 +1,11 @@
 import os
-import geturls,requests
+import requests
 from rich.console import Console
 from rich.table import Table
+try:
+  import geturls
+except ImportError:
+  print("geturls.py is missing, try reinstalling the program")
 
 f = open("version.txt",'r')
 response = requests.get("https://github.com/padmanabhpvdev//version.txt")
