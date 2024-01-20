@@ -34,3 +34,13 @@ If you're using Python3, then run it using the following command:
 ```bash
 python3 scrapopy.py
 ```
+## Usage
+The usage of this tool is very simple and the options were listed below:
+|Option|Functions|
+|:-----|:-------:|
+|1     |Get All URLs|
+|2     |Get details of a website|
+|3     |Get IP address of a website|
+|4     |Save All URLs in a txt file|
+|5     |Help|
+|6     |Exit|
