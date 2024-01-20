@@ -44,3 +44,5 @@ The usage of this tool is very simple and the options were listed below:
 |4     |Save All URLs in a txt file|
 |5     |Help|
 |6     |Exit|
+## <img src="/images/scrnsht2.png">
+## <img src="/images/scrnsht3.png">
