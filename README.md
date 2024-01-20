@@ -22,7 +22,7 @@ Check the Python dependencies if the tools were installed [Optional]
 ```bash
 pip install -r requirements.txt
  ```
-    OR in Python3
+OR in Python3
 ```bash
 pip3 install -r requirements.txt
 ```
