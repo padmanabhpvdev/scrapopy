@@ -38,7 +38,8 @@ logo=f"""
 {nc} 
                    Version {version} 
                     
-        Scrape Contents from a Webpage by Padmanabh PV                                                 
+        Scrape Contents from a Webpage by Padmanabh PV 
+            https://github.com/padmanabhpvdev/scrapopy
     """
 commands = """
             [OPTIONS]
